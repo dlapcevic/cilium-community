@@ -44,7 +44,8 @@ The process of becoming a security team member is:
 Community Team members are listed in the [community team file](roles/Community-Team.md). The community team is responsible for helping grow the community around Cilium including managing the public presence of the project, helping the project be present at events and meetups, and applying to relevant programs on the project’s behalf.
 
 * Responsibilities:
-    * Keeping the Cilium website and social media accounts up to date
+    * Keeping the Cilium website and social media accounts up to date, following
+      the [social guidelines](./Social-Guidelines.md)
     * Helping manage the Cilium presence at relevant events and meetups
     * Applying to programs and grants that will help grow the Cilium community
     * Representing the Cilium project positively in public
@@ -88,7 +89,7 @@ The Code Team is the committers responsible for all aspects of the Cilium organi
 
 * Responsibilities:
     * Is an active owner of code they have contributed (unless ownership is explicitly transferred) making sure that code is well tested, tests consistently pass, and addressing bugs or issues discovered after code is accepted
-    * Everything in expectations of developers with [commit access](https://docs.cilium.io/en/latest/community/governance/commit_access/#expectations-for-developers-with-commit-access)
+    * Everything in expectations of developers with [commit access](https://github.com/cilium/community/blob/main/GOVERNANCE.md#granting-commit-access)
     * Nominate themselves to review specific code owner areas
     * Backport fixes for latest release
     * Writing and/or refactoring PRs
